@@ -1,0 +1,11 @@
+C:\Users\William Perez\Documents\Repos\dotnet-identity-auth-server\Domain\bin\Debug\net10.0\Domain.deps.json
+C:\Users\William Perez\Documents\Repos\dotnet-identity-auth-server\Domain\bin\Debug\net10.0\Domain.dll
+C:\Users\William Perez\Documents\Repos\dotnet-identity-auth-server\Domain\bin\Debug\net10.0\Domain.pdb
+C:\Users\William Perez\Documents\Repos\dotnet-identity-auth-server\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\William Perez\Documents\Repos\dotnet-identity-auth-server\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+C:\Users\William Perez\Documents\Repos\dotnet-identity-auth-server\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+C:\Users\William Perez\Documents\Repos\dotnet-identity-auth-server\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\William Perez\Documents\Repos\dotnet-identity-auth-server\Domain\obj\Debug\net10.0\Domain.dll
+C:\Users\William Perez\Documents\Repos\dotnet-identity-auth-server\Domain\obj\Debug\net10.0\refint\Domain.dll
+C:\Users\William Perez\Documents\Repos\dotnet-identity-auth-server\Domain\obj\Debug\net10.0\Domain.pdb
+C:\Users\William Perez\Documents\Repos\dotnet-identity-auth-server\Domain\obj\Debug\net10.0\ref\Domain.dll
