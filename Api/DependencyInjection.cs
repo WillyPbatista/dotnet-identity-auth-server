@@ -6,7 +6,7 @@ namespace Api;
 
 public static class DependencyInjection
 {
-    public static IServiceCollection AddApplicationServices(
+    public static IServiceCollection AddApiServices(
         this IServiceCollection services,
         IConfiguration configuration)
     {
