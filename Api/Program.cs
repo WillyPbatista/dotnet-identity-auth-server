@@ -22,5 +22,6 @@ if (app.Environment.IsDevelopment())
 }
 // Map minimal API endpoints
 Api.Endpoints.AuthEndpoints.MapAuthEndpoints(app);
+Api.Endpoints.LoginEndpoints.MapLoginEndpoints(app);
 
 app.Run();
