@@ -1,5 +1,6 @@
 
 using Application.Interfaces;
+using Application.Login;
 using Application.Register;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -11,6 +12,8 @@ public static class DependencyInjection
         this IServiceCollection services)
     {
         services.AddScoped<IRegisterUser, RegisterUser>();
+        services.AddScoped<ILoginUser, LoginUser>();
+        
 
         return services;
     }
