@@ -3,6 +3,7 @@ using Infrastructure.DependencyInjection;
 using Infrastructure.Identity;
 using Application.DependencyInjection;
 using Microsoft.AspNetCore.Identity;
+using Api.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +15,9 @@ builder.Services.AddInfrastructureServices(builder.Configuration);
 builder.Services.AddApplication();
 
 var app = builder.Build();
+
+app.UseMiddleware<ExceptionMiddleware>();
+
 
 if (app.Environment.IsDevelopment())
 {
